@@ -1,0 +1,5 @@
+POSTS_PATH = 'C:\\Programming\\Розробник пітон\\coursework_2\\data\\posts.json'
+COMMENTS_PATH = 'C:\\Programming\\Розробник пітон\\coursework_2\\data\\comments.json'
+BOOKMARKS_PATH = 'C:\\Programming\\Розробник пітон\\coursework_2\\data\\bookmarks.json'
+GET_POSTS_DATA = 'C:\\Programming\\Розробник пітон\\coursework_2\\data\\get_posts_data.json'
+GET_POSTS_DATA_SINGLE = 'C:\\Programming\\Розробник пітон\\coursework_2\\data\\get_posts_data_single.json'
